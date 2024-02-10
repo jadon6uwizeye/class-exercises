@@ -1,0 +1,31 @@
+/* External CSS file */
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #dad9d9;
+    font-family: Arial, sans-serif;
+}
+
+ul, a {
+    margin: 10px;
+    padding: 5px;
+}
+
+img {
+    width: 100px; /* Example size, adjust as needed */
+}
+
+audio, video {
+    display: block;
+    margin: 20px 0;
+}
+
+div{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 100px;
+    width: 60%;
+    content: center;
+    border: 1px solid #000;
+    background-color: #cecece;
+}
